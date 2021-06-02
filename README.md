@@ -1,2 +1,2 @@
 # image-processing
-vehicle number plate detection
+Converting my pic into RGB format..
